@@ -10,6 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
             Console.WriteLine("Enter the Number 1");
             int number1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter the Number 2");
